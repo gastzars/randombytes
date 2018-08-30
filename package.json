@@ -22,7 +22,7 @@
     "url": "https://github.com/crypto-browserify/randombytes/issues"
   },
   "homepage": "https://github.com/crypto-browserify/randombytes",
-  "browser": "browser.js",
+  "browser": "index.js",
   "devDependencies": {
     "phantomjs": "^1.9.9",
     "standard": "^10.0.2",
